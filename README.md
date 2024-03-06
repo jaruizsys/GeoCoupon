@@ -166,7 +166,7 @@ NOTE: I started observing this group of coupons after compare the acceptance for
 - The acceptance rate based on Income for the coupon type *Carry out and take away* delivered at `2PM` is very uniform except for people with income between `$75000-$87499`. For the last one it is noticed a decrease of the acceptance rate
 - Drivers traveling with friends around 2PM have a better acceptance rate for *Carry out and take away* coupons. The acceptance rate for this group is `89%` compared with drivers traveling alone `76%`
 
-**Conclusions for Carry out & Take away coupons:**
+> **Conclusions for Carry out & Take away coupons:**
 
 - By exploring the above findings, this is concluded different combinations improve the acceptance for `Carry out & Take away` coupons. The major acceptance based on gender and marital status are the `female married`. Another importan criteria identified is the passenger traveling with driver, when he is in companition of `friends` there is major probability for coupon acceptance. In the real life, this could be related to lunch time when co-workers go out. 
 
@@ -175,4 +175,4 @@ NOTE: I started observing this group of coupons after compare the acceptance for
 
 The following is the notebook URL containing the root analysys performed over initial data. The information has being explored by generating different visualizations and applying filters. This is a good document to explore more details about the findings described here:
 
-[GeoCoupon.ipynb](https://github.com/jaruizsys/GeoCoupon/blob/main/geocoupon.ipynb)
+[GeoCoupon.ipynb](https://github.com/jaruizsys/GeoCoupon/blob/main/prompt.ipynb)
